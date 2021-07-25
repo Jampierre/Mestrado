@@ -1,0 +1,2 @@
+Data			Hota	Temperatura (C)		Umidade (%)		Presao (hPa)		Vento (m/s)	Rn	Temp Interna
+			UTC	Inst.	Max.	Min	Inst.	Max	Min.	Inst.	Max.	Min.	Vel.		Kj/m2	C

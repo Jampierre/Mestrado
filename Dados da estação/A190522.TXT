@@ -1,0 +1,6 @@
+Data			Hota	Temperatura (C)		Umidade (%)		Presao (hPa)		Vento (m/s)	Rn	Temp Interna
+			UTC	Inst.	Max.	Min	Inst.	Max	Min.	Inst.	Max.	Min.	Vel.		Kj/m2	C
+123 123 123 132 123 123 123 123 123 123 123 123 123 123 123 123 123 12 3123 
+123 123 123 132 123 123 123 123 123 123 123 123 123 123 123 123 123 12 3123 
+Temperatura: 
+Umidade: 
